@@ -1,0 +1,1 @@
+use the repository git clone https://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@github.com/fullstacklabs/automation-engineer-challenge.git to execute the tests
